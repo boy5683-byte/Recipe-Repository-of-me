@@ -1,2 +1,12 @@
-# Recipe-Repository-of-me
-My personal digital cookbook for practicing Git and Markdown skills
+# 🍳 My Personal Cookbook (คลังสูตรอาหารส่วนตัว)
+
+โปรเจกต์นี้สร้างขึ้นเพื่อจัดเก็บสูตรอาหารที่ชอบ และใช้สำหรับฝึกฝนการเขียนเอกสารด้วยภาษา Markdown บน GitHub
+
+## 📖 สารบัญสูตรอาหาร (Menu Index)
+คลิกที่ชื่อเมนูด้านล่างเพื่อดูวัตถุดิบและขั้นตอนการทำ:
+
+### 🍲 อาหารคาว (Savory Dishes)
+* [🍳 ผัดไทยกุ้งสด (Pad Thai)](./recipes/pad-thai.md) - สูตรเส้นจันท์เหนียวนุ่ม ทำง่ายบนเว็บ
+
+### 🍰 ของหวาน & เครื่องดื่ม (Desserts & Drinks)
+* *กำลังจะเพิ่มสูตรเร็ว ๆ นี้...*

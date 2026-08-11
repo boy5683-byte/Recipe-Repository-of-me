@@ -23,10 +23,3 @@ profit_margin = 20 # กำไรที่ต้องการ (บาท)
 selling_price = cost + profit_margin
 print("ราคาขายผัดไทยกุ้งสด คือ:", selling_price, "บาท")
 ```
-
-```html
-<!-- โค้ดปุ่มกดสำหรับสั่งอาหาร -->
-<button onclick="alert('ระบบกำลังนำคุณไปยังหน้าชำระเงิน...')">
-  🛒 สั่งซื้อผัดไทยที่นี่
-</button>
-```

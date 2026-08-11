@@ -22,4 +22,4 @@ profit_margin = 20 # กำไรที่ต้องการ (บาท)
 selling_price = cost + profit_margin
 print("ราคาขายผัดไทยกุ้งสด คือ:", selling_price, "บาท")
 ```
-![รูปpadthai](https://en.wikipedia.org/wiki/Pad_thai)
+![รูปpadthai](https://en.wikipedia.org/wiki/Pad_thai#/media/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg)

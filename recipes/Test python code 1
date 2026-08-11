@@ -1,0 +1,8 @@
+```python
+# โค้ดภาษา Python สำหรับคำนวณราคาขายผัดไทย
+cost = 35          # ต้นทุนวัตถุดิบ (บาท)
+profit_margin = 20 # กำไรที่ต้องการ (บาท)
+
+selling_price = cost + profit_margin
+print("ราคาขายผัดไทยกุ้งสด คือ:", selling_price, "บาท")
+```
